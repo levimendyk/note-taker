@@ -28,7 +28,7 @@ GIVEN a note-taking application
 <li>THEN I am presented with empty fields to enter a new note title and the note's text in the right-hand column</li>
 </ul>
 
-[Deployed Site]((https://fierce-caverns-55881.herokuapp.com)
+[Deployed Site](https://fierce-caverns-55881.herokuapp.com)
 
 Contribution guidelines for this project
 <img src="./assets/images/express-homework-demo-01.png"/>
